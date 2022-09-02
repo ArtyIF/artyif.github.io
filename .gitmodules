@@ -1,0 +1,3 @@
+[submodule "repo/repository.artyif/plugin.audio.rbb"]
+	path = repo/repository.artyif/plugin.audio.rbb
+	url = https://github.com/ArtyIF/plugin.audio.rbb.git
