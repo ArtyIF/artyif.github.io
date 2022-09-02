@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.artyif" name="ArtyIF's repository" version="1.0.0" provider-name="ArtyIF">
+    <extension point="xbmc.addon.repository" name="ArtyIF's repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/ArtyIF/repository.artyif/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/ArtyIF/repository.artyif/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/ArtyIF/repository.artyif/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>ArtyIF's repository</summary>
+        <description>Repository for ArtyIF's Kodi add-ons (like RadioBrowser²)</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon></addons>
