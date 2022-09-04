@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.artyif" name="ArtyIF's repository" version="1.0.0" provider-name="ArtyIF">
+<addon id="repository.artyif" name="ArtyIF's repository" version="1.0.1" provider-name="ArtyIF">
     <extension point="xbmc.addon.repository" name="ArtyIF's repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/ArtyIF/repository.artyif/master/repo/zips/addons.xml</info>
